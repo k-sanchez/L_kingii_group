@@ -11,7 +11,7 @@ lapply(packages, library, character.only = TRUE)
 
 # Data formatting: Linear and meristic data ----
 
-pheno_full <- read.csv("data/phenotype/lineal_meristica_all.csv", sep = ",")
+pheno_full <- read.csv("data/phenotype/lineal_meristic_all.csv", sep = ",")
 View(pheno_full)
 pheno_full[2:3] <- lapply(pheno_full[2:3], factor) # coerce multiple columns to factor
 
