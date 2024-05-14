@@ -3,3 +3,4 @@ Code to replicate the results of the ms: Tracing evolutionary trajectories in th
 Evolution DOI: 10.1093/evolut/qpae009
 
 Note: the input required by the scripts is hosted in Dryad (https://doi.org/10.5061/dryad.05qfttf9k)
+Raw ddRAD sequence reads are deposited in NCBI's Short Read Assembly under Bioproject PRJNA1054749
